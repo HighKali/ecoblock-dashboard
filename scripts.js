@@ -21,3 +21,11 @@ function runPurge() {
 function runSync() {
   alert("Commit e push su GitHub completati.");
 }
+
+function generaWallet() {
+  alert('✅ Wallet generato!');
+}
+
+function generaEntropia() {
+  alert('✨ Entropia generata!');
+}
