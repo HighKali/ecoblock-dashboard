@@ -3,3 +3,28 @@
 ✅ Bottoni con onclick rilevati
 ❌ generaWallet() mancante. La aggiungo...
 ❌ generaEntropia() mancante. La aggiungo...
+2025-10-20T07:52:43.133597 - 🔍 Avvio diagnosi UI EcoBlock
+2025-10-20T07:52:43.133764 - ✅ index.html trovato: /data/data/com.termux/files/home/ecoblock-dashboard/index.html
+2025-10-20T07:52:43.133877 - ✅ scripts.js trovato: /data/data/com.termux/files/home/ecoblock-dashboard/scripts.js
+2025-10-20T07:52:43.134114 - ✅ scripts.js incluso correttamente in index.html
+2025-10-20T07:52:43.134540 - ✅ Tutti i bottoni hanno attributo onclick
+2025-10-20T07:52:43.134911 - ✅ Funzione generaWallet() presente in scripts.js
+2025-10-20T07:52:43.135159 - ✅ Funzione generaEntropia() presente in scripts.js
+2025-10-20T07:52:43.135239 - ✅ Diagnosi completata.
+
+2025-10-20T07:54:14.250956 - 🛠️ Avvio EcoHeal UI Fix
+2025-10-20T07:54:14.251107 - ✅ index.html trovato: /data/data/com.termux/files/home/ecoblock-dashboard/index.html
+2025-10-20T07:54:14.251232 - ✅ scripts.js trovato: /data/data/com.termux/files/home/ecoblock-dashboard/scripts.js
+2025-10-20T07:54:14.251395 - ✅ scripts.js già incluso
+2025-10-20T07:54:14.251774 - ✅ Tutti i bottoni già corretti
+2025-10-20T07:54:14.252027 - ✅ Funzioni JS già presenti
+2025-10-20T07:54:14.252105 - ✅ Riparazione completata.
+
+2025-10-20T07:56:00.698112 - 🛠️ Avvio EcoHeal UI Fix
+2025-10-20T07:56:00.698228 - ✅ index.html trovato: /data/data/com.termux/files/home/ecoblock-dashboard/index.html
+2025-10-20T07:56:00.698305 - ✅ scripts.js trovato: /data/data/com.termux/files/home/ecoblock-dashboard/scripts.js
+2025-10-20T07:56:00.698454 - ✅ scripts.js già incluso
+2025-10-20T07:56:00.698805 - ✅ Tutti i bottoni già corretti
+2025-10-20T07:56:00.698927 - ✅ Funzioni JS già presenti
+2025-10-20T07:56:00.698985 - ✅ Riparazione completata.
+
