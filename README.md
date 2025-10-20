@@ -1,3 +1,6 @@
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/HighKali/ecoblock-dashboard)
+
+
 # 🌐 EcoBlock Dashboard
 
 Dashboard modulare, etica e laser-ready per il progetto EcoBlock.  
