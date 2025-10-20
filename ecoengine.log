@@ -1,4 +1,4 @@
-🚀 Avvio EcoEngine: Mon Oct 20 08:22:57 CEST 2025
+🚀 Avvio EcoEngine: Mon Oct 20 08:29:44 CEST 2025
 🛠️ Avvio EcoHeal UI Fix
 ✅ index.html trovato: /data/data/com.termux/files/home/ecoblock-dashboard/index.html
 ✅ scripts.js trovato: /data/data/com.termux/files/home/ecoblock-dashboard/scripts.js
@@ -17,8 +17,3 @@
 ✅ Deploy completato
 🌐 Collegamento VPS / nodi remoti (placeholder)
 ✅ Collegamento completato
-[main 84eb74a] EcoEngine: orchestrazione completa
- 3 files changed, 10 insertions(+), 2 deletions(-)
-To https://github.com/HighKali/ecoblock-dashboard.git
-   3e95a4f..84eb74a  main -> main
-🟢 Server avviato su http://127.0.0.1:8888
