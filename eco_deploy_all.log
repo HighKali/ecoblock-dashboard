@@ -259,3 +259,10 @@
 ✅ Archivio creato: ecoblock_release_20251020_0855.zip
 ✅ CONTRIBUTORS.md generato
 📤 Commit e push su GitHub...
+[main e59316a] Deploy completo: UI, engine, ZIP, contributors
+ 4 files changed, 271 insertions(+)
+ create mode 100644 CONTRIBUTORS.md
+ create mode 100644 ecoblock_release_20251020_0855.zip
+To https://github.com/HighKali/ecoblock-dashboard.git
+   8998b1f..e59316a  main -> main
+ℹ️ Webhook Discord non configurato
