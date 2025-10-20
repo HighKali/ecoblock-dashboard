@@ -1,4 +1,4 @@
-🚀 Avvio EcoEngine: Mon Oct 20 07:56:00 CEST 2025
+🚀 Avvio EcoEngine: Mon Oct 20 08:11:02 CEST 2025
 🔧 Esecuzione ecoheal_ui_fix.py...
 🛠️ Avvio EcoHeal UI Fix
 ✅ index.html trovato: /data/data/com.termux/files/home/ecoblock-dashboard/index.html
@@ -9,6 +9,3 @@
 ✅ Riparazione completata.
 
 📦 Commit e push su GitHub...
-To https://github.com/HighKali/ecoblock-dashboard.git
-   9b0d187..1435128  main -> main
-ℹ️ Webhook Discord non configurato
