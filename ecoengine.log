@@ -17,3 +17,8 @@
 ✅ Deploy completato
 🌐 Collegamento VPS / nodi remoti (placeholder)
 ✅ Collegamento completato
+[main 84eb74a] EcoEngine: orchestrazione completa
+ 3 files changed, 10 insertions(+), 2 deletions(-)
+To https://github.com/HighKali/ecoblock-dashboard.git
+   3e95a4f..84eb74a  main -> main
+🟢 Server avviato su http://127.0.0.1:8888
